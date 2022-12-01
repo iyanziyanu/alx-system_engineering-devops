@@ -1,2 +1,2 @@
-#!/bin/bas
-“/etc/group”
+#!/bin/bash
+groups
